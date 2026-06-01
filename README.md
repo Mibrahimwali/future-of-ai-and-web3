@@ -13,6 +13,7 @@ Future of AI · Decentralized AI · Web3 Research · AI Agents · Emerging Techn
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Agent Wallets and On-Chain Permissions](research/2026/06/agent-wallets-and-on-chain-permissions.md) | Latest |
 
 | Article | Added |
 |---------|-------|
