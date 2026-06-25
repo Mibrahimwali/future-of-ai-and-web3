@@ -13,6 +13,7 @@ Future of AI · Decentralized AI · Web3 Research · AI Agents · Emerging Techn
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI Governance for Protocol DAOs](research/2026/06/ai-governance-for-protocol-daos.md) | Latest |
 | [Decentralized Intelligence Marketplaces](research/2026/06/decentralized-intelligence-marketplaces.md) | Latest |
 | [Autonomous Commerce Networks](research/2026/06/autonomous-commerce-networks.md) | Latest |
 | [Agent Wallets and On-Chain Permissions](research/2026/06/agent-wallets-and-on-chain-permissions.md) | Latest |
