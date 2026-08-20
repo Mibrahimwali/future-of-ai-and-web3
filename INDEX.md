@@ -7,3 +7,4 @@
 - [Autonomous Commerce Networks](research/2026/06/autonomous-commerce-networks.md)
 - [Decentralized Intelligence Marketplaces](research/2026/06/decentralized-intelligence-marketplaces.md)
 - [AI Governance for Protocol DAOs](research/2026/06/ai-governance-for-protocol-daos.md)
+- [Machine Economies and Agent Labor](research/2026/08/machine-economies-and-agent-labor.md)
