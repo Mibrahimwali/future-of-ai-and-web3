@@ -13,6 +13,7 @@ Future of AI · Decentralized AI · Web3 Research · AI Agents · Emerging Techn
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Verifiable Inference for LLMs](research/2026/10/verifiable-inference-for-llms.md) | Latest |
 | [On-Chain Identity for AI Agents](research/2026/10/on-chain-identity-for-ai-agents.md) | Latest |
 | [Machine Economies and Agent Labor](research/2026/08/machine-economies-and-agent-labor.md) | Latest |
 | [AI Governance for Protocol DAOs](research/2026/06/ai-governance-for-protocol-daos.md) | Latest |
